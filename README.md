@@ -1,1 +1,3 @@
-# typescript-basics
+# TypeScript
+
+## Overview syntax typescript

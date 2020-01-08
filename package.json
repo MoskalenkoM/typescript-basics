@@ -1,0 +1,24 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "Overview syntax typescript",
+  "scripts": {
+    "delDist": "rimraf js",
+    "tsc": "rimraf js && tsc",
+    "help": "tsc --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoskalenkoM/typescript-basics.git"
+  },
+  "author": "Max Moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoskalenkoM/typescript-basics/issues"
+  },
+  "homepage": "https://github.com/MoskalenkoM/typescript-basics#readme",
+  "devDependencies": {
+    "rimraf": "^3.0.0",
+    "typescript": "^3.7.4"
+  }
+}

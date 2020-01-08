@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "removeComments": true,
+    "outDir": "js",
+    "strict": true
+  },
+  // "files": [
+  //     "core.ts",
+  //     "sys.ts",
+  //     "types.ts",
+  //     "scanner.ts",
+  //     "parser.ts",
+  //     "utilities.ts",
+  //     "binder.ts",
+  //     "checker.ts",
+  //     "emitter.ts",
+  //     "program.ts",
+  //     "commandLineParser.ts",
+  //     "tsc.ts",
+  //     "diagnosticInformationMap.generated.ts"
+  // ]
+  "exclude": ["node_modules"]
+}
