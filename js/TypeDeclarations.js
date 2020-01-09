@@ -1,0 +1,14 @@
+"use strict";
+let myNumb2 = 10;
+let myStr2 = 'Some string';
+let myBool2 = true;
+let myAny2 = 25;
+myAny2 = 'any string';
+let myNumb3 = 10;
+let myStr3 = 'Some string';
+let myBool3 = true;
+let myAny3;
+myAny3 = true;
+myAny3 = 25;
+let myNumb4 = 25;
+myNumb4 = true;

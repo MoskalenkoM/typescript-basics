@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Overview syntax typescript",
   "scripts": {
+    "js": "node js/*.js",
     "delDist": "rimraf js",
     "tsc": "rimraf js && tsc",
     "help": "tsc --help"
